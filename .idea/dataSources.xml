@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="directory_flask@localhost" uuid="b0b94d04-43e9-48fd-b1c6-7029b0a9f35e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/directory_flask</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="contact_app" uuid="a149ffea-040c-42ad-9e6e-0bf1b1975722">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\OneDrive\Documents\projects\flask_directory_app\contact_app.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
